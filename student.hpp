@@ -10,7 +10,7 @@ using namespace std;
 //Exercise
 bool isAlphabetical(string nameOne, string nameTwo)
 {
-	return (nameOne.compare(nametwo)!= 1); // TODO: fix
+	return (nameOne.compare(nameTwo)!= 1); // TODO: fix
 }
 
 
